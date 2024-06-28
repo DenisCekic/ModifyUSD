@@ -8,4 +8,9 @@ Install:
 2.pip install requirements.txt
 
 Use:
-To see list of available scripts view "commands.txt"
+
+1.cd to ModifyUSD
+
+2. .venv\scripts\activate
+
+3. To see list of available scripts view "commands.txt"
