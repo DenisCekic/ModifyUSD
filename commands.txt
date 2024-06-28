@@ -1,0 +1,3 @@
+python usdcat.py path\to\your.usd path\to\your.usda
+python usdview.pypath\to\your.usd
+python tousd.py path\to\your.usda path\to\your.usd
